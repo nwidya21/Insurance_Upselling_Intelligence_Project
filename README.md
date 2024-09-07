@@ -59,6 +59,7 @@ To enhance the effectiveness of vehicle insurance sales.
 ### EDA:
 - **Response by Previous Insurance Status**  
   > 99.6% of positive responses came from customers who do not currently have vehicle insurance.
+  > ![Data Analysis](pic/prev_ins.png)
 
 - **Response by Age Group**  
   > 34.9% of positive responses were from customers aged 40-49.
